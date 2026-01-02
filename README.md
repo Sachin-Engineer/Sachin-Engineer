@@ -71,12 +71,12 @@
 	<img
 		height="160"
 		alt="Sachin's GitHub Stats"
-		src="https://github-readme-stats.vercel.app/api?username=Sachin-Engineer&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=21600&v=1"
+		src="https://github-readme-stats-sachin-engineer.vercel.app/api?username=Sachin-Engineer&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=21600&v=2"
 	/>
 	<img
 		height="160"
 		alt="Top Languages"
-		src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sachin-Engineer&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&cache_seconds=21600&v=1"
+		src="https://github-readme-stats-sachin-engineer.vercel.app/api/top-langs/?username=Sachin-Engineer&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&cache_seconds=21600&v=2"
 	/>
 	<br />
 	<img
@@ -106,3 +106,4 @@
 		alt="footer"
 	/>
 </div>
+

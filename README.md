@@ -3,7 +3,7 @@
 		<img
 			alt="Intro video (click to play)"
 			src="https://github.com/user-attachments/assets/bbf9eb59-ecdc-4f32-9d4f-2888e555010d"
-			width="720"
+			height="300"
 		/>
 	</a>
 	<br />

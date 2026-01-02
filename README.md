@@ -71,17 +71,17 @@
 	<img
 		height="160"
 		alt="Sachin's GitHub Stats"
-		src="https://github-readme-stats.vercel.app/api?username=Sachin-Engineer&show_icons=true&theme=tokyonight&hide_border=true"
+		src="https://github-readme-stats.vercel.app/api?username=Sachin-Engineer&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=21600&v=1"
 	/>
 	<img
 		height="160"
 		alt="Top Languages"
-		src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sachin-Engineer&layout=compact&theme=tokyonight&hide_border=true"
+		src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sachin-Engineer&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&cache_seconds=21600&v=1"
 	/>
 	<br />
 	<img
 		alt="GitHub Streak"
-		src="https://streak-stats.demolab.com?user=Sachin-Engineer&theme=tokyonight&hide_border=true"
+		src="https://streak-stats.demolab.com?user=Sachin-Engineer&theme=tokyonight&hide_border=true&mode=weekly&v=1"
 	/>
 
 </div>

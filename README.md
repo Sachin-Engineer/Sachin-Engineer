@@ -9,8 +9,6 @@
 	<h3>Frontend Developer • React • UI Engineering</h3>
 	<p>
 		<a href="https://www.sachinkumar.me" target="_blank"><b>Portfolio</b></a>
-		•
-		<a href="https://github.com/Sachin-Engineer" target="_blank"><b>GitHub</b></a>
 	</p>
 	<!-- Animated typing line -->
 	<img
@@ -20,8 +18,8 @@
 	<!-- Neon divider -->
 	<br />
 	<img
-		src="https://capsule-render.vercel.app/api?type=rect&color=0:FFC107,100:111827&height=2&section=header"
-		width="85%"
+		src="https://capsule-render.vercel.app/api?type=rect&color=0:FFC107,50:111827,100:FFC107&height=2&section=header"
+		width="100%"
 		alt="divider"
 	/>
 
@@ -81,7 +79,7 @@
 	<br />
 	<img
 		alt="GitHub Streak"
-		src="https://streak-stats.demolab.com?user=Sachin-Engineer&theme=tokyonight&hide_border=true&mode=weekly&v=1"
+		src="https://streak-stats.demolab.com?user=Sachin-Engineer&theme=tokyonight&hide_border=true&v=3"
 	/>
 
 </div>
@@ -92,8 +90,8 @@
 	<a href="https://www.sachinkumar.me" target="_blank">
 		<img alt="Website" src="https://img.shields.io/badge/Website-0b0f19?style=for-the-badge&logo=google-chrome&logoColor=00E5FF" />
 	</a>
-	<a href="https://github.com/Sachin-Engineer" target="_blank">
-		<img alt="GitHub" src="https://img.shields.io/badge/GitHub-0b0f19?style=for-the-badge&logo=github&logoColor=7C4DFF" />
+	<a href="https://wa.me/919910264486" target="_blank">
+		<img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-0b0f19?style=for-the-badge&logo=whatsapp&logoColor=25D366" />
 	</a>
 
 </div>
@@ -101,7 +99,7 @@
 <!-- Footer wave -->
 <div align="center">
 	<img
-	src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,55:111827,100:FFC107&height=110&section=footer"
+	src="https://capsule-render.vercel.app/api?type=waving&color=0:FFC107,50:111827,100:FFC107&height=110&section=footer"
 		width="100%"
 		alt="footer"
 	/>

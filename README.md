@@ -1,11 +1,15 @@
 <div align="center">
-	<!-- Hero GIF (swap URL if you have a specific one) -->
-	<img
-		src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif"
-		alt="Boy saying hello (swap this GIF URL to match your portfolio avatar)"
-		width="160"
-	/>
-	<h1>HELLO, I'M Sachin Kumar</h1>
+	<a href="https://github.com/user-attachments/assets/990bc845-c7dd-41e3-8829-4e096e6a2d09" target="_blank">
+		<img
+			alt="Intro video (click to play)"
+			src="https://github.com/user-attachments/assets/bbf9eb59-ecdc-4f32-9d4f-2888e555010d"
+			width="720"
+		/>
+	</a>
+	<br />
+	<sub>Click the thumbnail to play the video.</sub>
+    <br/>
+    <h1>HELLO, I'M Sachin Kumar</h1>
 	<h3>Frontend Developer • React • UI Engineering</h3>
 	<p>
 		<a href="https://www.sachinkumar.me" target="_blank"><b>Portfolio</b></a>

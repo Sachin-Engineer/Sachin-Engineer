@@ -1,5 +1,5 @@
 <div align="center">
-	<a href="https://github.com/user-attachments/assets/990bc845-c7dd-41e3-8829-4e096e6a2d09" target="_blank">
+	<a href="https://youtube.com/shorts/MnQcjoNTNq8?feature=share" target="_blank">
 		<img
 			alt="Intro video (click to play)"
 			src="https://github.com/user-attachments/assets/bbf9eb59-ecdc-4f32-9d4f-2888e555010d"

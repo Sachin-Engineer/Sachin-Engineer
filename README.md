@@ -1,22 +1,24 @@
 <div align="center">
-	<a href="https://youtube.com/shorts/MnQcjoNTNq8?feature=share" target="_blank">
+    <a href="https://github.com/user-attachments/assets/990bc845-c7dd-41e3-8829-4e096e6a2d09" target="_blank">
 		<img
 			alt="Intro video (click to play)"
 			src="https://github.com/user-attachments/assets/bbf9eb59-ecdc-4f32-9d4f-2888e555010d"
-			height="300"
+            height='300'
 		/>
 	</a>
 	<br />
-	<sub>Click the thumbnail to play the video.</sub>
     <br/>
-    <h1>HELLO, I'M Sachin Kumar</h1>
+	<img
+		src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2200&pause=900&color=9CA3AF&center=true&vCenter=true&width=560&lines=Hello;I+am+Sachin+Kumar"
+		alt="Typing: Hello, I am Sachin Kumar"
+	/>
 	<h3>Frontend Developer • React • UI Engineering</h3>
 	<p>
 		<a href="https://www.sachinkumar.me" target="_blank"><b>Portfolio</b></a>
 	</p>
 	<!-- Animated typing line -->
 	<img
-		src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2600&pause=700&color=FFC107&center=true&vCenter=true&width=560&lines=Hello%2C+I+am+Sachin+Kumar;Frontend+Developer;I+build+beautiful%2C+responsive+web+apps"
+		src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2600&pause=700&color=FFC107&center=true&vCenter=true&width=560&lines=Frontend+Developer;React+Developer;I+can+build+beautiful%2C+responsive+web+apps"
 		alt="Typing SVG"
 	/>
 	<!-- Neon divider -->
